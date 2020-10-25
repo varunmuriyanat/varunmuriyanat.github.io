@@ -59,7 +59,7 @@ If you client is looking for someone who has designed and implemented data wareh
 
 Aside from the successes that I've had, I have personally faced most of the pain points, gotchas and failures in data development, engineering and visualization so that my clients wouldn't have to.  I guess that's the most important selling point that I bring to the table.
 
-Here's my updated resume. https://docs.google.com/document/d/1eGUXFSbMg7p4H7TLg4faYDhelHZCI9hDX73Gxu_Ujcc/edit?usp=sharing. There's only so much I can fit in 2 pages of what I have experienced and built over more than a decade.
+Here's my updated [resume](https://docs.google.com/document/d/1eGUXFSbMg7p4H7TLg4faYDhelHZCI9hDX73Gxu_Ujcc/edit?usp=sharing). There's only so much I can fit in 2 pages of what I have experienced and built over more than a decade.
 I will be happy to get on a call/meeting to illustrate how I can add value and solve the business problem at hand.
 
 
