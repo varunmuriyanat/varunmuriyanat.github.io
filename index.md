@@ -41,21 +41,21 @@ I did face a lot of challenges. But I managed to overcome them and build solutio
 The technology stack used were a mix of `Python`, `SQL`, `NodeJS`, `Tableau`, `.Net Core 3.1` and some plain old `VBA`.
 
 Prior to CIBC, I was part of the Advanced Analytics team at IHS Markit.
-At IHS, I built data engineering pipelines involving a stack of tools like AWS S3, Redshift, Athena, Airflow, Python, Pandas, Apache Spark and a ton of scripts.
+At IHS, I built data engineering pipelines involving a stack of tools like AWS `S3`, `Redshift`, `Athena`, `Airflow`, `Python`, `Pandas`, `Apache Spark` and a ton of scripts.
 
 I also developed analytical dashboards showcasing the results from the machine learning models. 
 
 I am currently taking some time off to learn some new skills and sharpen my axe.
 
 
-Now before you judge me for the VBA part, I must say this. 
+Now before you judge me for the `VBA` part, I must say this. 
 A problem had to solved and it had to be done fast. And I got it done.
 And that's what I am all about. Solving problems and getting things done.
 
 ------------------------------------------------------------------------------------------------
 
 ### Note to recruiters
-If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like Tableau, TIBCO Spotfire, PowerBI or custom built solutions in Leaflet.js, D3, plotly, NodeJS then I am the man for that job.
+If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like `Tableau`, `TIBCO Spotfire`, `PowerBI` or custom built solutions in `Leaflet.js`, `D3`, `plotly`, `NodeJS` then I am the man for that job.
 
 Aside from the successes that I've had, I have personally faced most of the pain points, gotchas and failures in data development, engineering and visualization so that my clients wouldn't have to.  I guess that's the most important selling point that I bring to the table.
 
@@ -63,14 +63,14 @@ Here's my updated [resume](https://docs.google.com/document/d/1eGUXFSbMg7p4H7TLg
 I will be happy to get on a call/meeting to illustrate how I can add value and solve the business problem at hand.
 
 
-I spent a lot of time migrating ETL jobs from a cron job driven model to a workflow orchestrator. 
+I spent a lot of time migrating ETL jobs from a `cron` job driven model to a workflow orchestrator. 
 
 We chose Apache Airflow because of all the good things we read about it and also because it solves most of the pain points we were experiencing. 
 Like automatically restarting failed tasks, controlling concurrency and dependencies.
 But mostly because of the dependencies involved in complex workflows we couldn't predict when the upstream task would complete.
 It got even more complicated when we're waiting for input from a third-party module.
 
-I have gone through all the typical struggles one would face from moving the cron tasks on EC2 to a Spark cluster with Airflow orchestrating the Pyspark jobs.
+I have gone through all the typical struggles one would face from moving the `cron` tasks on `EC2` to a `Spark` cluster with `Airflow` orchestrating the `Pyspark` jobs.
 
 I've had a fair share of experience migrating data analysis queries in hive running on hadoop to spark for faster data processing.
 
