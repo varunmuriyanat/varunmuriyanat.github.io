@@ -52,15 +52,6 @@ Now before you judge me for the `VBA` part, I must say this.
 A problem had to solved and it had to be done fast. And I got it done.
 And that's what I am all about. Solving problems and getting things done.
 
-------------------------------------------------------------------------------------------------
-
-### Note to recruiters
-If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like `Tableau`, `TIBCO Spotfire`, `PowerBI` or custom built solutions in `Leaflet.js`, `D3`, `plotly`, `NodeJS` then I am the man for that job.
-
-Aside from the successes that I've had, I have personally faced most of the pain points, gotchas and failures in data development, engineering and visualization so that my clients wouldn't have to.  I guess that's the most important selling point that I bring to the table.
-
-Here's my updated [resume](https://docs.google.com/document/d/1eGUXFSbMg7p4H7TLg4faYDhelHZCI9hDX73Gxu_Ujcc/edit?usp=sharing). There's only so much I can fit in 2 pages of what I have experienced and built over more than a decade.
-I will be happy to get on a call/meeting to illustrate how I can add value and solve the business problem at hand.
 
 
 I spent a lot of time migrating ETL jobs from a `cron` job driven model to a workflow orchestrator. 
@@ -78,5 +69,16 @@ Typical configuration: Airflow configured on a EC2 instance which orchestrates a
 Pulling data from various sources into S3
 From S3 into Redshift
 Submitting spark jobs to process data from hdfs and save as parquet on S3.
+
+
+------------------------------------------------------------------------------------------------
+
+### Note to recruiters
+If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like `Tableau`, `TIBCO Spotfire`, `PowerBI` or custom built solutions in `Leaflet.js`, `D3`, `plotly`, `NodeJS` then I am the man for that job.
+
+Aside from the successes that I've had, I have personally faced most of the pain points, gotchas and failures in data development, engineering and visualization so that my clients wouldn't have to.  I guess that's the most important selling point that I bring to the table.
+
+Here's my updated [resume](https://docs.google.com/document/d/1eGUXFSbMg7p4H7TLg4faYDhelHZCI9hDX73Gxu_Ujcc/edit?usp=sharing). There's only so much I can fit in 2 pages of what I have experienced and built over more than a decade.
+I will be happy to get on a call/meeting to illustrate how I can add value and solve the business problem at hand.  
 
 
