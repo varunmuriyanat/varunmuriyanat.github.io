@@ -1,4 +1,4 @@
-Last Modified: 2020-10-25  
+Last Modified: 2020-10-25\s\s
 Update: I accepted an offer for a contract position from Farm Credit Canada.
 
 ## About me
