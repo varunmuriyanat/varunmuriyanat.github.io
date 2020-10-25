@@ -82,3 +82,9 @@ Here's my updated [resume](https://docs.google.com/document/d/1eGUXFSbMg7p4H7TLg
 I will be happy to get on a call/meeting to illustrate how I can add value and solve the business problem at hand.  
 
 
+------------------------------------------------------------------------------------------------
+
+You can always reach me on varunmuriyanat@gmail.com or (437) 237-7230.  
+
+
+
