@@ -1,3 +1,6 @@
+Last Modified: 2020-10-25
+Update: I accepted an offer for a contract position from Farm Credit Canada.
+
 ## About me
 
 I spent the best part of the last decade building data solutions.
@@ -56,12 +59,11 @@ If you client is looking for someone who has designed and implemented data wareh
 
 Aside from the successes that I've had, I have personally faced most of the pain points, gotchas and failures in data development, engineering and visualization so that my clients wouldn't have to.  I guess that's the most important selling point that I bring to the table.
 
-Attached herewith is my updated resume. There's only so much I can fit in 2 pages of what I have experienced and built over more than a decade.
+Here's my updated resume. https://docs.google.com/document/d/1eGUXFSbMg7p4H7TLg4faYDhelHZCI9hDX73Gxu_Ujcc/edit?usp=sharing. There's only so much I can fit in 2 pages of what I have experienced and built over more than a decade.
 I will be happy to get on a call/meeting to illustrate how I can add value and solve the business problem at hand.
 
 
 I spent a lot of time migrating ETL jobs from a cron job driven model to a workflow orchestrator. 
-
 
 We chose Apache Airflow because of all the good things we read about it and also because it solves most of the pain points we were experiencing. 
 Like automatically restarting failed tasks, controlling concurrency and dependencies.
