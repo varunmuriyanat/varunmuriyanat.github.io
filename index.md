@@ -1,3 +1,5 @@
+## About me
+
 I spent the best part of the last decade building data solutions.
 
 I have worked on starting from the lowest end of the data spectrum of analysing data in spreadsheets to building highly scalable data platforms that feed machine learning models that drive business decisions.
