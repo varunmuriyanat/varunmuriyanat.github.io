@@ -35,7 +35,7 @@ CIBC was no different.
 
 I did face a lot of challenges. But I managed to overcome them and build solutions to transform the reporting in the department where I was contracted. 
 
-The technology stack used were a mix of Python, SQL, NodeJS, Tableau, .Net Core 3.1 and some plain old VBA.
+The technology stack used were a mix of `Python`, `SQL`, `NodeJS`, `Tableau`, `.Net Core 3.1` and some plain old `VBA`.
 
 Prior to CIBC, I was part of the Advanced Analytics team at IHS Markit.
 At IHS, I built data engineering pipelines involving a stack of tools like AWS S3, Redshift, Athena, Airflow, Python, Pandas, Apache Spark and a ton of scripts.
