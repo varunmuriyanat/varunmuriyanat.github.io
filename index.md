@@ -52,8 +52,7 @@ A problem had to solved and it had to be done fast. And I got it done.
 And that's what I am all about. Solving problems and getting things done.
 
 
-
-
+## Note to recruiters
 If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like Tableau, TIBCO Spotfire, PowerBI or custom built solutions in Leaflet.js, D3, plotly, NodeJS then I am the man for that job.
 
 Aside from the successes that I've had, I have personally faced most of the pain points, gotchas and failures in data development, engineering and visualization so that my clients wouldn't have to.  I guess that's the most important selling point that I bring to the table.
@@ -65,8 +64,6 @@ I will be happy to get on a call/meeting to illustrate how I can add value and s
 
 I spent a lot of time migrating ETL jobs from a cron job driven model to a workflow orchestrator. 
 
-
-Cron -> time-based scheduler
 
 We chose Apache Airflow because of all the good things we read about it and also because it solves most of the pain points we were experiencing. 
 Like automatically restarting failed tasks, controlling concurrency and dependencies.
