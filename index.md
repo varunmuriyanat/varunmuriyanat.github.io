@@ -45,12 +45,11 @@ I also developed analytical dashboards showcasing the results from the machine l
 I am currently taking some time off to learn some new skills and sharpen my axe.
 
 
-
-------------------------------------------------------------------------------------------------
 Now before you judge me for the VBA part, I must say this. 
 A problem had to solved and it had to be done fast. And I got it done.
 And that's what I am all about. Solving problems and getting things done.
 
+------------------------------------------------------------------------------------------------
 
 ### Note to recruiters
 If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like Tableau, TIBCO Spotfire, PowerBI or custom built solutions in Leaflet.js, D3, plotly, NodeJS then I am the man for that job.
@@ -59,7 +58,6 @@ Aside from the successes that I've had, I have personally faced most of the pain
 
 Attached herewith is my updated resume. There's only so much I can fit in 2 pages of what I have experienced and built over more than a decade.
 I will be happy to get on a call/meeting to illustrate how I can add value and solve the business problem at hand.
-
 
 
 I spent a lot of time migrating ETL jobs from a cron job driven model to a workflow orchestrator. 
