@@ -74,7 +74,7 @@ Submitting spark jobs to process data from hdfs and save as parquet on S3.
 ------------------------------------------------------------------------------------------------
 
 ### Note to recruiters
-If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like `Tableau`, `TIBCO Spotfire`, `PowerBI` or custom built solutions in `Leaflet.js`, `D3`, `plotly`, `NodeJS` then I am the man for that job.
+If you client is looking for someone who has designed and implemented data warehouses, built, maintained and troubleshooted data engineering pipelines, developed and deployed dashboards using off-the-shelf tools like `Tableau`, `TIBCO Spotfire`, `PowerBI` or custom built solutions in `Leaflet.js`, `D3`, `plotly`, `NodeJS` - I am the man for that job.
 
 Aside from the successes that I've had, I have personally faced most of the pain points, gotchas and failures in data development, engineering and visualization so that my clients wouldn't have to.  I guess that's the most important selling point that I bring to the table.
 
